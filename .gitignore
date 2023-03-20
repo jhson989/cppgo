@@ -1,3 +1,4 @@
 build
 go/*.h
 **/*.so
+app.out
