@@ -1,0 +1,1 @@
+# An example for C++ codes calling Go functions
