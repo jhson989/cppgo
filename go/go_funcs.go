@@ -16,8 +16,4 @@ func go_echo(input string) (*C.char, *C.char) {
 
 func main() {
 	fmt.Printf("Test done......................\n")
-	fmt.Printf("Test done......................\n")
-	fmt.Printf("Test done......................\n")
-	fmt.Printf("Test done......................\n")
-	fmt.Printf("Test end.......................\n")
 }
